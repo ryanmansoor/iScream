@@ -1,4 +1,4 @@
-//Code to create a simple authorizing function with a hardcoded username and password.
+//Code to create a simple authorization function with a hardcoded username and password.
 public void checkUserPass(){
 					String Username = txtUsername.getText();
 					char[] Pass = txtPassword.getPassword();
